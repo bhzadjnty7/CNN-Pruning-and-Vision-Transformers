@@ -79,7 +79,7 @@ UMAP visualization of the final layer tokens demonstrates the network's ability 
 The comparison of accuracy and loss between End-to-End and Layer-wise training approaches:
 
 <p align="center">
-  <img src="assets/vit_training_curves.png" width="800" alt="ViT Training Curves">
+  <img src="assets/vit_training_curves.png" width="600" alt="ViT Training Curves">
 </p>
 *(Note: Replace with your actual ViT training curve image)*
 
