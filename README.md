@@ -92,10 +92,10 @@ The comparison of accuracy and loss between End-to-End and Layer-wise training a
 ├── ANND_CA3_Q2.ipynb      # ViT Implementation, E2E vs Layer-wise Training, UMAP, Cross-SI
 ├── assets/                # Directory containing plots and images for README
 └── README.md              # Project documentation
-
+```
 ## Requirements
 To run the notebooks, you will need the following Python packages:
-
+```text
 bash
 torch>=2.0.0
 torchvision>=0.15.0
@@ -103,13 +103,15 @@ numpy
 matplotlib
 scikit-learn
 umap-learn
-
+```
 It is highly recommended to run these notebooks in an environment with GPU acceleration (e.g., Google Colab T4/A100).
 
-📬 Contact
+## 📬 Contact
 
   GitHub: https://github.com/bhzadjnty7
+  
   Email: behzadjannati@ut.ac.ir / bhzadjnty7@gmail.com
+  
   LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
 
 Behzad Jannati
